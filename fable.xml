@@ -9,9 +9,6 @@
         <agent img="2.png" x="300" y="0" width="100" height="100" />
         <agent img="3.png" x="400" y="0" width="100" height="100" />
         <agent img="mamacopng.png" x="100" y="80" width="150" height="150" on-touch="_NEXT_PAGE" />
-
-    <page/>
-        <page background="noite_dark.png">
         
   </page>
 </fable>
