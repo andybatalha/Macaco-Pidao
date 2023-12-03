@@ -30,8 +30,19 @@
             <agent img="Tile (3).png" x="400" y="0" width="100" height="100" />
             <agent img="mamacopng.png" x="100" y="80" width="150" height="150" on-touch="_NEXT_PAGE" />
 
-        </page>
+    </page>
         <page background="bg.png">
         <agent text="Ofereça comida ao macaco." x="50" y="350" font-size="20" color="black"/>
+            <agent img="1.png" x="1" y="0" width="100" height="100" />
+            <agent img="2.png" x="100" y="0" width="100" height="100" />
+            <agent img="2.png" x="200" y="0" width="100" height="100" />
+            <agent img="2.png" x="300" y="0" width="100" height="100" />
+            <agent img="3.png" x="400" y="0" width="100" height="100" />
+            <agent img="mamacopng.png" x="100" y="80" width="150" height="150"/>
+            <agent img="MACA.png" x="300" y="130" width="50" height="50" on-touch="_NEXT_PAGE"/>
+    </page>
+        <page background="black.jpeg">
+        <ag
+        
   </page>
 </fable>
