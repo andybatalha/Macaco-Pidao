@@ -1,5 +1,7 @@
 <fable>
-	<page background="bg.png"  
+	<page background="bg.png">
+  	<agent text="Havia um macaco muito triste que vivia em um zoologico. (Toque no texto)" x="20" y="350" font-size="20" color="black" on-touch="texto2">
+        <texto2 text="Passavam dias e noites e ele continuava triste. (Toque no macaco.)" x="20" y="350" font-size="20" color="black"/>
     
   </page>
 </fable>
