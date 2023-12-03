@@ -12,6 +12,16 @@
 
     </page>
         <page background="noite_dark.png">
-        
+        <agent text="(Toque no macaco)" x="20" y="350" font-size="20" color="white"/>
+            <agent img="Tile (1).png" x="1" y="0" width="100" height="100" />
+            <agent img="Tile (2).png" x="100" y="0" width="100" height="100" />
+            <agent img="Tile (2).png" x="200" y="0" width="100" height="100" />
+            <agent img="Tile (2).png" x="300" y="0" width="100" height="100" />
+            <agent img="Tile (3).png" x="400" y="0" width="100" height="100" />
+            <agent img="mamacopng.png" x="100" y="80" width="150" height="150" on-touch="_NEXT_PAGE" />
+
+    </page>
+                <page background="bg.png">
+        <agent text="Todos os dias era mesma rotina, cheio de pessoas tirando foto e jogando comida.(Toque no macaco.)" x="20" y="350" font-size="20" color="black"/>
   </page>
 </fable>
